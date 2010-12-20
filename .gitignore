@@ -1,1 +1,6 @@
 *.pyc
+.RData
+.Rhistory
+*.pyc
+*.csv
+*.swp
